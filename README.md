@@ -18,3 +18,9 @@ Use `--store <directory>` on any command to choose the data directory. The defau
 Reflect can turn verified decisions into memories and cite their source IDs. Record can supply checkpoint IDs as references through Reflect. Relay supplies models when Reflect chooses to summarize; Ridge can read Recall's JSON output. Recall has no compile-time dependency on those products.
 
 The first release uses local keyword search. Embeddings, automatic extraction, shared sync, and access control are future work.
+
+## License
+
+MIT — see [LICENSE](LICENSE) for details. Contributions are welcome under the terms in [CONTRIBUTING.md](CONTRIBUTING.md); report security issues privately as described in [SECURITY.md](SECURITY.md).
+
+© 2026 GrayCode AI
